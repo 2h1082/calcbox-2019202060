@@ -3,7 +3,7 @@ function avg(numbers){
     return s/numbers.length;
 }
 function prime(num){
-    
+    //implement!
     return true;
 }
 
